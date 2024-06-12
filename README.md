@@ -12,5 +12,6 @@ Responsive tasarıma uygun olarak tasarlanmıştır
 -Html
 -Css
 
-<h3>Ekran Görüntüsü <h3>
+<h3>Ekran Görüntüsü </h3>
+
 ![](amazon_clone.gif)
